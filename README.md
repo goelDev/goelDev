@@ -8,7 +8,7 @@ I'm currently on a journey to learn web development with a keen interest in AI, 
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - :bulb: I'm interested in all things : **Development , Machine Learning and Programming**
-- 💬 Talk to me about Business and Startups, Tech.
+- 💬 Talk to me about Business, Startups and Tech.
 
 ### My skills include
 
@@ -55,14 +55,14 @@ Here are some ideas to get you started:
 -->
 <hr>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and there's always an easier way to solve a problem.</i>
+   <i>A problem can be solved in a 100 different ways, and there's always an easier way to solve a problem.</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
    <br>
 <br>
 
-<a target="_blank" href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/devansh-goel-828983301/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:devanshgoel62@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 <br>
