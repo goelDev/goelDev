@@ -18,7 +18,9 @@ I'm currently on a journey to learn web development with a keen interest in AI, 
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
         <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-	<img width="5%" style="padding:5px" src=https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000/>
+	<img width="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000"/>
+	<img title="c programming" alt="c programming" src="assets/c-programming.png" width="50" style="vertical-align:down; margin:4px"/>
+	<img title="c++" alt="c++" src="assets/c++.png" width="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 
@@ -58,12 +60,10 @@ Here are some ideas to get you started:
    <i>You miss 100% of the shots you don't take.</i>
    <br>
 <br>
-<a target="_blank" href="https://thomasgeorgethomas.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
-<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+
+<a target="_blank" href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://public.tableau.com/app/profile/thomas.george.thomas"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 <br>
 </p>   
