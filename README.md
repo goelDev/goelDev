@@ -18,6 +18,7 @@ I'm currently on a journey to learn web development with a keen interest in AI, 
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
         <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+	<img width="10%" style="padding:5px" src=https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000/>
 </p>
 
 
