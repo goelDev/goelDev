@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Devansh Goel,
 
-A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for , , :new: Innovation and Automation :robot: 
-
+A passionate engineering student and aspiring full-stack developer 🚀. 
+I love building scalable apps, exploring new technologies, and solving real-world problems through tech. 
+I'm currently on a journey to learn web development, app development, and cloud computing, 
+with a keen interest in AI and automation,:new: Innovation
 
 - 🌱 I’m currently pursuing **Graduation in Computer Science and Engineering, RamdeoBaba University,Nagpur**
 
