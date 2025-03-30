@@ -2,13 +2,13 @@
 
 A passionate engineering student and aspiring full-stack developer 🚀. 
 I love building scalable apps, exploring new technologies, and solving real-world problems through tech. 
-I'm currently on a journey to learn web development, app development, and cloud computing, with a keen interest in AI,automation and Innovation
+I'm currently on a journey to learn web development, with a keen interest in AI, Automation and Innovation
 
-- 🌱 I’m currently pursuing **Graduation in Computer Science and Engineering at RamdeoBaba University,Nagpur**
+- 🌱 I’m currently pursuing **Graduation in Computer Science and Engineering at RamdeoBaba University, Nagpur**
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about business and Startups,:racing_car:, Memes, Anime, Movies 🎥
+- :bulb: I'm interested in all things : **Development , Machine Learning and Programming**
+- 💬 Talk to me about Business and Startups, Tech.
 <hr>
 ### My skills include
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 -->
 <hr>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>A problem can be solved in a 100 different ways and there's always an easier way to solve a problem.</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
    <br>
