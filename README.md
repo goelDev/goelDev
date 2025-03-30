@@ -2,7 +2,7 @@
 
 A passionate engineering student and aspiring full-stack developer 🚀. 
 I love building scalable apps, exploring new technologies, and solving real-world problems through tech. 
-I'm currently on a journey to learn web development, with a keen interest in AI, Automation and Innovation
+I'm currently on a journey to learn web development with a keen interest in AI, Automation and Innovation
 
 - 🌱 I’m currently pursuing **Graduation in Computer Science and Engineering at RamdeoBaba University, Nagpur**
 
@@ -16,6 +16,7 @@ I'm currently on a journey to learn web development, with a keen interest in AI,
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
+        
 	
 </p>
 
