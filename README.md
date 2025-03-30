@@ -9,7 +9,7 @@ I'm currently on a journey to learn web development with a keen interest in AI, 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - :bulb: I'm interested in all things : **Development , Machine Learning and Programming**
 - 💬 Talk to me about Business and Startups, Tech.
-<hr>
+
 ### My skills include
 
 <p align="center">
