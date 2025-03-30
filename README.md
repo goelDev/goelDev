@@ -8,7 +8,7 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating, bu
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about business and Startups:racing_car:, Memes, Anime, Movies 🎥
-
+<hr>
 ### My skills include
 
 <p align="center">
