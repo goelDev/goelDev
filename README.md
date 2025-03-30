@@ -1,15 +1,13 @@
-![ViewCount](http://bit.ly/goelDev-Github-Visits)
-
 ### Hi there 👋 I'm Devansh Goel,
 
-A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for , , :new: Innovation and Automation :robot: 
 
-<!--
-- 🌱 I’m currently pursuing **Masters in Data Analytics Engineering at Northeastern University, Boston**
--->
+
+- 🌱 I’m currently pursuing **Graduation in Computer Science and Engineering, RamdeoBaba University,Nagpur**
+
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, Anime, Movies 🎥, Genshin Impact 🎮, Amateur Photography 📸
+- 💬 Talk to me about business and Startups:racing_car:, Memes, Anime, Movies 🎥
 
 ### My skills include
 
